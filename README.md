@@ -1,1 +1,1 @@
-system deops
+system devops
